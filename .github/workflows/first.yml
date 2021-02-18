@@ -1,5 +1,7 @@
-me: first
+name: first
+
 on: push
+
 jobs:
   job1:
     name: First job
